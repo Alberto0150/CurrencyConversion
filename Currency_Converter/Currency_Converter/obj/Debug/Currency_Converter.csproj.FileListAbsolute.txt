@@ -1,0 +1,10 @@
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.exe.config
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.exe
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\bin\Debug\Currency_Converter.pdb
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csprojAssemblyReference.cache
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.Aplikasi.resources
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csproj.GenerateResource.cache
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.csproj.CoreCompileInputs.cache
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.exe
+D:\Coding VSC19\CurrencyConversion\Currency_Converter\Currency_Converter\obj\Debug\Currency_Converter.pdb
