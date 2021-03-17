@@ -137,6 +137,7 @@ namespace Currency_Converter
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Aplikasi";
             this.Text = "Currency Converter";
+            this.Load += new System.EventHandler(this.Aplikasi_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -35,6 +35,11 @@ namespace Currency_Converter
             }
             this.Hasil.Text = Math.Round(convertedAmount, 2) + " " + this.comboBox2.SelectedItem;
         }
+
+        private void Aplikasi_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }
